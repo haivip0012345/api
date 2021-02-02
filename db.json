@@ -2,7 +2,6 @@
   "food" :[
     {
       "title" : "green tea",
-      "description" :"Trà xanh rất ngon",
       "id" : "1"
     },
   ]
