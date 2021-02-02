@@ -7,7 +7,27 @@
     },
      {
       "id": "2",
-      "title": "Trà Xanh",
+      "title": "Nước Cam",
+      "description":"Trà xanh hay chè xanh được làm từ lá của cây trà chưa trải qua công đoạn làm héo và ôxi hóa giống với cách chế biến trà Ô Long và trà đen. Trà xanh có nguồn gốc ở Trung Quốc nhưng quy trình sản xuất lan rộng tới nhiều quốc gia ở châu Á"
+    },
+     {
+      "id": "6",
+      "title": "Trà Đào",
+      "description":"Trà xanh hay chè xanh được làm từ lá của cây trà chưa trải qua công đoạn làm héo và ôxi hóa giống với cách chế biến trà Ô Long và trà đen. Trà xanh có nguồn gốc ở Trung Quốc nhưng quy trình sản xuất lan rộng tới nhiều quốc gia ở châu Á"
+    },
+     {
+      "id": "5",
+      "title": "Trà Chanh",
+      "description":"Trà xanh hay chè xanh được làm từ lá của cây trà chưa trải qua công đoạn làm héo và ôxi hóa giống với cách chế biến trà Ô Long và trà đen. Trà xanh có nguồn gốc ở Trung Quốc nhưng quy trình sản xuất lan rộng tới nhiều quốc gia ở châu Á"
+    },
+     {
+      "id": "4",
+      "title": "Trà Sữa",
+      "description":"Trà xanh hay chè xanh được làm từ lá của cây trà chưa trải qua công đoạn làm héo và ôxi hóa giống với cách chế biến trà Ô Long và trà đen. Trà xanh có nguồn gốc ở Trung Quốc nhưng quy trình sản xuất lan rộng tới nhiều quốc gia ở châu Á"
+    },
+     {
+      "id": "3",
+      "title": "Trà Đá",
       "description":"Trà xanh hay chè xanh được làm từ lá của cây trà chưa trải qua công đoạn làm héo và ôxi hóa giống với cách chế biến trà Ô Long và trà đen. Trà xanh có nguồn gốc ở Trung Quốc nhưng quy trình sản xuất lan rộng tới nhiều quốc gia ở châu Á"
     }
    
