@@ -2,7 +2,7 @@
   "food" :[
     {
       "title" : "green tea",
-      "id" : "1"
+      "id" : 1
     },
   ]
 }
