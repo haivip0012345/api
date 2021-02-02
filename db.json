@@ -1,11 +1,8 @@
 {
-  "posts": [
+  "drinks": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": "1",
+      "title": "Trà Xanh"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
