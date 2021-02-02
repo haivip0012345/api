@@ -2,7 +2,8 @@
   "food" :[
     {
       "title" : "green tea",
+      "description" :"Trà xanh hay chè xanh được làm từ lá của cây trà chưa trải qua công đoạn làm héo và ôxi hóa giống với cách chế biến trà Ô Long và trà đen.[1] Trà xanh có nguồn gốc ở Trung Quốc nhưng quy trình sản xuất lan rộng tới nhiều quốc gia ở châu Á. Trà xanh có nhiều loại, mà khác biệt đáng kể do sự đa dạng của cây trà được sử dụng, điều kiện trông trọt, phương pháp canh tác. quá trình trồng trọt và thời gian thu hái."
       "id" : "1"
-    }
+    },
   ]
 }
