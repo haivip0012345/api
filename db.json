@@ -1,8 +1,11 @@
 {
-  "food" :[
+  "posts": [
     {
-      "title" : "green tea",
-      "id" : 1
+      "id": 1,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
